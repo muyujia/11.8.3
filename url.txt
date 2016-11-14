@@ -1,2 +1,3 @@
 
-https://muyujia.github.io/git11.08/apple/index.html
+zhuye£ºhttps://muyujia.github.io/git11.08/gerenzhuye/index.html
+apple£ºhttps://muyujia.github.io/git11.08/myapple/index.html
